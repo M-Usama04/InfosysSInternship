@@ -19,6 +19,8 @@ import requests
 from bs4 import BeautifulSoup
 import PyMuPDF
 import fitz
+
+
 # ---------------------------
 # Initialization & Config
 # ---------------------------
