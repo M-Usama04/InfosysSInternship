@@ -1,4 +1,4 @@
-# Legal Document Summarization and Risk Assessment System
+# Ai Legal Document Summarization and Risk Assessment System
 
 This is an AI-powered web application developed using **Streamlit**, designed to summarize legal documents, assess risks, and ensure compliance with regulations like **GDPR** and **HIPAA**. The system leverages NLP techniques for document processing and advanced summarization models for efficient legal document analysis.
 
