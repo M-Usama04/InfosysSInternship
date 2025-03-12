@@ -1,5 +1,5 @@
 import streamlit as st
-import fitz  # PyMuPDF for PDF extraction
+import fitz
 import os, time, difflib, base64, string, re
 from dotenv import load_dotenv
 from sentence_transformers import SentenceTransformer
@@ -17,7 +17,8 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import requests
 from bs4 import BeautifulSoup
-import PyMuPDF
+import PyMuPDF==1.18.19
+
 # ---------------------------
 # Initialization & Config
 # ---------------------------
