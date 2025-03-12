@@ -1,6 +1,6 @@
 import streamlit as st
 import os, time, difflib, base64, string, re
-import dotenv
+
 from dotenv import load_dotenv
 from sentence_transformers import SentenceTransformer
 import faiss
